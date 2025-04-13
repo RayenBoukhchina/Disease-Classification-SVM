@@ -11,7 +11,7 @@ Le dataset utilisé, `DiseaseAndSymptoms.csv`, contient des informations sur :
 - des **maladies diagnostiquées** (variable cible),
 - les **symptômes observés** pour chaque patient (jusqu'à 4 par individu).
 
-Ce jeu de données a été récupéré sur [Kaggle](https://www.kaggle.com/) (lien à ajouter si nécessaire).
+Ce jeu de données a été récupéré sur [Kaggle](https://www.kaggle.com/).
 
 ### 🛠️ Étapes du TP
 
